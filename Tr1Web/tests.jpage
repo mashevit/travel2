@@ -1,0 +1,7 @@
+syste cannot be resolvedsystem cannot be resolvedtry{
+	int i = Integer.parseInt("qw");
+	System.out.println(i);
+}
+catch(Exception e){
+	System.out.println("aaa");
+}
